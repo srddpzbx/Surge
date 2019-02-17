@@ -1,0 +1,53 @@
+🇭🇰 香港 - AZURE 01 | Silver = ss, 23.98.32.88, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - AZURE 02 | Silver = ss, 40.83.76.63, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - AZURE 03 | Silver = ss, 13.70.23.41, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - GIA CN2 | Gold = ss, hk-ali.qiangdong.xyz, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=576c25769.wns.windows.com, udp-relay=true
+🇭🇰 香港 - HGC 01 | Bronze = ss, 118.140.26.188, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HGC 02 | Bronze = ss, 118.140.26.181, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HGC 03 | Bronze = ss, 118.140.62.179, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HGC DIA | Gold = ss, 103.25.255.160, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKBN | Bronze = ss, 103.214.147.60, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 01 | Bronze = ss, hk11.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 02 | Bronze = ss, hk22.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 03 | Bronze = ss, hk33.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 04 | Bronze = ss, hk44.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 05 | Bronze = ss, hk55.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 06 | Bronze = ss, hk66.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 07 | Bronze = ss, hk77.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 08 | Bronze = ss, hk88.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 09 | Bronze = ss, hk99.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 10 | Bronze = ss, hk111.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 11 | Bronze = ss, hk222.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 12 | Bronze = ss, hk333.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 13 | Bronze = ss, hk444.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 14 | Bronze = ss, hk555.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 15 | Bronze = ss, hk666.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 16 | Bronze = ss, hk777.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 17 | Bronze = ss, hk888.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 18 | Bronze = ss, hk999.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 19 | Bronze = ss, hk1111.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 20 | Bronze = ss, hk2222.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 21 | Bronze = ss, hk3333.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 22 | Bronze = ss, hk4444.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 23 | Bronze = ss, hk5555.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 24 | Bronze = ss, hk6666.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 25 | Bronze = ss, hk7777.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 26 | Bronze = ss, hk8888.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 27 | Bronze = ss, hkg11.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - HKT 28 | Bronze = ss, hkg22.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - IPLC 01 | Gold = ss, 120.79.79.21, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
+🇭🇰 香港 - IPLC 02 | Gold = ss, 120.78.136.14, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
+🇭🇰 香港 - IPLC 03 | Gold = ss, 120.79.49.207, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
+🇭🇰 香港 - IPLC 04 | Gold = ss, 120.78.80.25, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
+🇭🇰 香港 - IPLC 05 | Gold = ss, 120.77.255.234, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
+🇭🇰 香港 - IPLC 06 | Gold = ss, 47.107.25.183, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=576c25769.wns.windows.com
+🇭🇰 香港 - PCCW 01 | Bronze = ss, 193.110.202.198, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - PCCW 02 | Bronze = ss, 193.110.201.134, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT 01 | Bronze = ss, hk-wtt.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT 02 | Bronze = ss, hk-wtt2.qiangdong.xyz, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT 03 | Bronze = ss, 218.253.254.45, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT 04 | Bronze = ss, 218.253.254.37, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT DIA 01 | Gold = ss, 116.92.235.200, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT DIA 02 | Gold = ss, 116.92.234.246, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT DIA 03 | Gold = ss, 116.92.234.232, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇭🇰 香港 - WTT DIA 04 | Gold = ss, 116.92.234.254, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true

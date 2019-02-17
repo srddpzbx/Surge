@@ -1,0 +1,4 @@
+🇩🇪 德国 - GIA CN2 01 | Bronze = ss, 82.129.30.6, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇩🇪 德国 - GIA CN2 02 | Bronze = ss, 82.129.30.7, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇩🇪 德国 - GIA CN2 03 | Bronze = ss, 82.129.30.11, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
+🇩🇪 德国 - LEVE3 | Bronze = ss, 212.83.46.147, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
