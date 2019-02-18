@@ -1,12 +1,3 @@
-🇯🇵 日本 - AZURE 01 | Silver = ss, 40.115.157.195, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - AZURE 02 | Silver = ss, 13.71.135.160, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - BBTEC 01 | Bronze = ss, 103.125.250.112, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - BBTEC 02 | Bronze = ss, 103.121.209.148, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - GMO | Bronze = ss, 153.122.73.219, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - IDCF 01 | Bronze = ss, 203.137.182.207, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - IDCF 02 | Bronze = ss, 210.140.81.153, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - IIJ | Bronze = ss, 194.156.231.201, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
-🇯🇵 日本 - Internap | Bronze = ss, 172.93.221.61, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, udp-relay=true
 🇯🇵 日本 - IPLC 01 | Gold = ss, 139.196.98.140, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
 🇯🇵 日本 - IPLC 02 | Gold = ss, 139.196.92.17, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
 🇯🇵 日本 - IPLC 03 | Gold = ss, 139.196.120.90, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http
