@@ -290,3 +290,6 @@ SSR for Android：https://yhyy135.github.io/how-to-use-ssr-android/
 ````
 
 ---
+
+日本 - IPLC | V2Ray = vmess, 139.224.9.107, 156, chacha20-ietf-poly1305, "febd8b5f-04ec-3980-bf00-bc2ec076b672", group=Dler Cloud, over-tls=false, certificate=1
+香港 - IPLC | V2Ray = vmess, 120.77.255.234, 156, chacha20-ietf-poly1305, "febd8b5f-04ec-3980-bf00-bc2ec076b672", group=Dler Cloud, over-tls=false, certificate=1
