@@ -1,0 +1,10 @@
+🇨🇳 中国上海 - BGP 01 | Relay = ss, 47.101.58.170, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国上海 - BGP 02 | Relay = ss, 47.102.44.0, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国上海 - BGP 03 | Back = ss, 175.102.11.10, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国北京 - BGP 01 | Relay = ss, 47.93.233.98, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国北京 - BGP 02 | Back = ss, 103.79.25.108, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国徐州 - Telecom | Back = ss, 221.229.173.156, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国杭州 - BGP | Relay = ss, 47.96.177.39, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国深圳 - BGP 01 | Relay = ss, 120.79.47.204, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国深圳 - BGP 02 | Relay = ss, 119.23.201.91, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
+🇨🇳 中国青岛 - BGP | Relay = ss, 47.104.110.249, 33029, encrypt-method=chacha20-ietf-poly1305, password=BARGAIN, obfs=http, tfo=true
