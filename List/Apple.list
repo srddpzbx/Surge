@@ -1,8 +1,10 @@
+PROCESS-NAME,News
 PROCESS-NAME,trustd
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,*WeatherFoundation*
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,AppleNews*
 USER-AGENT,AppStore*
 USER-AGENT,com.apple.appstored*
 USER-AGENT,com.apple.geod*
@@ -22,3 +24,5 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,api.smoot.apple.cn
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
